@@ -231,10 +231,10 @@ void read(string parameterFile){
     fin>>mechanics_mode;
 
     if(mode=="ArabidopsisPetal"){
-        division_control=="GaussianArea"; //division frequency was set to be controlled by Gaussian function (meristem position was controlled)
+        division_control="GaussianArea"; //division frequency was set to be controlled by Gaussian function (meristem position was controlled)
     }
     else if(mode=="SharpApex"){
-        division_control=="area"; //division frequency was set to be controlled by area (homogeneous division frequency)
+        division_control="area"; //division frequency was set to be controlled by area (homogeneous division frequency)
         in_division_direction = "biregion_angles_position"; //division direction was set differently in apical region and basal region
     }
     else if(mode=="ConcaveApex"){
