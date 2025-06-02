@@ -1,6 +1,6 @@
-# DOJO_plant_vertex_model
+# plant_vertex_model
 
-This plant vertex model is for 2023/09/09-2023/09/11 解析道場. 
+This plant vertex model is for 2025/06/03 初ゼミ授業.  
 
 Please follow the tutorial for C++/CMake first. And try to compile the HelloWorld projects. 
 
