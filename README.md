@@ -1,6 +1,6 @@
 # plant_vertex_model
 
-This plant vertex model is for 2025/06/03 初ゼミ授業.  
+This plant vertex model is for 2025 東大初ゼミ授業.  
 
 Please follow the tutorial for C++/CMake first. And try to compile the HelloWorld projects. 
 
